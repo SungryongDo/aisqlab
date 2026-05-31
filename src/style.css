@@ -1,0 +1,6 @@
+body{font-family:Arial,sans-serif;margin:0;background:#fafafa}
+.nav{padding:20px;border-bottom:1px solid #ddd}
+.hero{padding:80px 10%;text-align:center}
+.hero h1{font-size:3rem}
+.cards{display:grid;grid-template-columns:repeat(2,1fr);gap:20px;padding:40px 10%}
+.card{background:white;padding:30px;border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,.08)}
